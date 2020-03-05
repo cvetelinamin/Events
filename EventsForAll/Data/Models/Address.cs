@@ -19,16 +19,12 @@ namespace EventsForAll.Data.Models
         [Required]
         public string Number { get; set; }
 
-        [Required]
         public string Building { get; set; }
 
-        [Required]
         public string Entrance { get; set; }
 
-        [Required]
         public string Floor { get; set; }
 
-        [Required]
         public string Apartment { get; set; }
 
         [Required]

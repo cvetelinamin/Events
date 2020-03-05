@@ -6,29 +6,15 @@
     <ul class="navbar-nav">
         @if (SignInManager.IsSignedIn(User))
         {
+
             <li>
                 <div class="nav-element">
-                    <a class="about-us" asp-area="" asp-controller="Home" asp-action="About" title="За нас">За нас</a>
+                    <a class="about-us" asp-area="" asp-controller="Schedules" asp-action="Schedule" title="Събития">Събития</a>
                 </div>
             </li>
             <li>
                 <div class="nav-element">
-                    <a class="about-us" asp-area="" asp-controller="Home" asp-action="Schedule" title="Събития">Събития</a>
-                </div>
-            </li>
-            <li>
-                <div class="nav-element">
-                    <a class="about-us" asp-area="" asp-controller="Home" asp-action="Blog" title="Блог">Блог</a>
-                </div>
-            </li>
-            <li>
-                <div class="nav-element">
-                    <a class="about-us" asp-area="" asp-controller="Home" asp-action="OurTeam" title="Нашият екип">Нашият екип</a>
-                </div>
-            </li>
-            <li>
-                <div class="nav-element">
-                    <a class="about-us" asp-area="" asp-controller="Home" asp-action="Contact" title="Контакти">Контакти</a>
+                    <a class="about-us" asp-area="" asp-controller="Blog" asp-action="Blog" title="Блог">Блог</a>
                 </div>
             </li>
             <li class="nav-item">

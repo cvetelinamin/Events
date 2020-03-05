@@ -302,10 +302,8 @@ D:\EventsForAll\EventsForAll\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\
 D:\EventsForAll\EventsForAll\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
 D:\EventsForAll\EventsForAll\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
 D:\EventsForAll\EventsForAll\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
-D:\EventsForAll\EventsForAll\obj\Debug\netcoreapp3.1\Razor\Views\Home\Blog.cshtml.g.cs
 D:\EventsForAll\EventsForAll\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contacts.cshtml.g.cs
 D:\EventsForAll\EventsForAll\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-D:\EventsForAll\EventsForAll\obj\Debug\netcoreapp3.1\Razor\Views\Home\Schedule.cshtml.g.cs
 D:\EventsForAll\EventsForAll\obj\Debug\netcoreapp3.1\Razor\Views\Home\Team.cshtml.g.cs
 D:\EventsForAll\EventsForAll\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
 D:\EventsForAll\EventsForAll\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
@@ -321,3 +319,7 @@ D:\EventsForAll\EventsForAll\obj\Debug\netcoreapp3.1\staticwebassets\EventsForAl
 D:\EventsForAll\EventsForAll\obj\Debug\netcoreapp3.1\staticwebassets\EventsForAll.StaticWebAssets.xml
 D:\EventsForAll\EventsForAll\obj\Debug\netcoreapp3.1\EventsForAll.dll
 D:\EventsForAll\EventsForAll\obj\Debug\netcoreapp3.1\EventsForAll.pdb
+D:\EventsForAll\EventsForAll\obj\Debug\netcoreapp3.1\Razor\Views\Schedules\Schedule.cshtml.g.cs
+D:\EventsForAll\EventsForAll\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Blog.cshtml.g.cs
+D:\EventsForAll\EventsForAll\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\EventsForAll\EventsForAll\obj\Debug\netcoreapp3.1\Razor\Views\Events\Create.cshtml.g.cs
