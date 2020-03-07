@@ -323,3 +323,5 @@ D:\EventsForAll\EventsForAll\obj\Debug\netcoreapp3.1\Razor\Views\Schedules\Sched
 D:\EventsForAll\EventsForAll\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Blog.cshtml.g.cs
 D:\EventsForAll\EventsForAll\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
 D:\EventsForAll\EventsForAll\obj\Debug\netcoreapp3.1\Razor\Views\Events\Create.cshtml.g.cs
+D:\EventsForAll\EventsForAll\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CreateOrganizer.cshtml.g.cs
+D:\EventsForAll\EventsForAll\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AddAdress.cshtml.g.cs

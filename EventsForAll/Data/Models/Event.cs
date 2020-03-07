@@ -11,6 +11,7 @@ namespace EventsForAll.Data.Models
     {
         public Event()
         {
+            this.Id = Guid.NewGuid().ToString();
             this.Audience = new HashSet<UserEvent>();
         }
 
@@ -55,6 +56,10 @@ namespace EventsForAll.Data.Models
         [Required]
         [MaxLength(500)]
         public string Description { get; set; }
+
+        public string CreatorId { get; set; }
+
+        public ApplicationUser Creator { get; set; }
 
         public TypicalAgeRange AgeRange { get; set; }
 

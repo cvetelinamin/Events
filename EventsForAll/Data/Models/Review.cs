@@ -9,6 +9,10 @@ namespace EventsForAll.Data.Models
 {
     public class Review : BaseModel<string>
     {
+        public Review()
+        {
+            this.Id = Guid.NewGuid().ToString();
+        }
         [Required]
         public string ApplicationUserId { get; set; }
 

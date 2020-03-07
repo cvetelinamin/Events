@@ -10,6 +10,8 @@ namespace EventsForAll.Data.Models
     {
         public Country()
         {
+            this.Id = Guid.NewGuid().ToString();
+
             this.Cities = new HashSet<City>();
         }
 
